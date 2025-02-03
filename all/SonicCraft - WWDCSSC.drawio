@@ -1,110 +1,110 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.10">
   <diagram name="第 1 页" id="4b0BHh1YzD-mGVPlwAt6">
-    <mxGraphModel dx="1451" dy="954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1306" dy="5540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ThfCISDLxi8xhfDp9Rs2-1" value="Sonicraft" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ThfCISDLxi8xhfDp9Rs2-1" value="Sonicraft" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1590" y="2311" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ThfCISDLxi8xhfDp9Rs2-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ThfCISDLxi8xhfDp9Rs2-2" target="ThfCISDLxi8xhfDp9Rs2-16">
+        <mxCell id="ThfCISDLxi8xhfDp9Rs2-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ThfCISDLxi8xhfDp9Rs2-2" target="ThfCISDLxi8xhfDp9Rs2-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ThfCISDLxi8xhfDp9Rs2-2" value="START" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ThfCISDLxi8xhfDp9Rs2-2" value="START" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1590" y="1690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ThfCISDLxi8xhfDp9Rs2-3" value="varable" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="ThfCISDLxi8xhfDp9Rs2-3" value="varable" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="2020" y="1645" width="180" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="ThfCISDLxi8xhfDp9Rs2-4" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="ThfCISDLxi8xhfDp9Rs2-3">
+        <mxCell id="ThfCISDLxi8xhfDp9Rs2-4" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="ThfCISDLxi8xhfDp9Rs2-3" vertex="1">
           <mxGeometry y="30" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ThfCISDLxi8xhfDp9Rs2-5" value="name&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;init&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="ThfCISDLxi8xhfDp9Rs2-4">
+        <mxCell id="ThfCISDLxi8xhfDp9Rs2-5" value="name&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;init&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="ThfCISDLxi8xhfDp9Rs2-4" vertex="1">
           <mxGeometry width="60" height="40" as="geometry">
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ThfCISDLxi8xhfDp9Rs2-6" value="init" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="ThfCISDLxi8xhfDp9Rs2-4">
+        <mxCell id="ThfCISDLxi8xhfDp9Rs2-6" value="init" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="ThfCISDLxi8xhfDp9Rs2-4" vertex="1">
           <mxGeometry x="60" width="60" height="40" as="geometry">
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ThfCISDLxi8xhfDp9Rs2-7" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="ThfCISDLxi8xhfDp9Rs2-4">
+        <mxCell id="ThfCISDLxi8xhfDp9Rs2-7" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="ThfCISDLxi8xhfDp9Rs2-4" vertex="1">
           <mxGeometry x="120" width="60" height="40" as="geometry">
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ThfCISDLxi8xhfDp9Rs2-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="ThfCISDLxi8xhfDp9Rs2-3">
+        <mxCell id="ThfCISDLxi8xhfDp9Rs2-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="ThfCISDLxi8xhfDp9Rs2-3" vertex="1">
           <mxGeometry y="70" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ThfCISDLxi8xhfDp9Rs2-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="ThfCISDLxi8xhfDp9Rs2-8">
+        <mxCell id="ThfCISDLxi8xhfDp9Rs2-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="ThfCISDLxi8xhfDp9Rs2-8" vertex="1">
           <mxGeometry width="60" height="40" as="geometry">
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ThfCISDLxi8xhfDp9Rs2-10" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="ThfCISDLxi8xhfDp9Rs2-8">
+        <mxCell id="ThfCISDLxi8xhfDp9Rs2-10" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="ThfCISDLxi8xhfDp9Rs2-8" vertex="1">
           <mxGeometry x="60" width="60" height="40" as="geometry">
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ThfCISDLxi8xhfDp9Rs2-11" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="ThfCISDLxi8xhfDp9Rs2-8">
+        <mxCell id="ThfCISDLxi8xhfDp9Rs2-11" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="ThfCISDLxi8xhfDp9Rs2-8" vertex="1">
           <mxGeometry x="120" width="60" height="40" as="geometry">
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ThfCISDLxi8xhfDp9Rs2-12" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="ThfCISDLxi8xhfDp9Rs2-3">
+        <mxCell id="ThfCISDLxi8xhfDp9Rs2-12" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="ThfCISDLxi8xhfDp9Rs2-3" vertex="1">
           <mxGeometry y="110" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ThfCISDLxi8xhfDp9Rs2-13" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="ThfCISDLxi8xhfDp9Rs2-12">
+        <mxCell id="ThfCISDLxi8xhfDp9Rs2-13" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="ThfCISDLxi8xhfDp9Rs2-12" vertex="1">
           <mxGeometry width="60" height="40" as="geometry">
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ThfCISDLxi8xhfDp9Rs2-14" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="ThfCISDLxi8xhfDp9Rs2-12">
+        <mxCell id="ThfCISDLxi8xhfDp9Rs2-14" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="ThfCISDLxi8xhfDp9Rs2-12" vertex="1">
           <mxGeometry x="60" width="60" height="40" as="geometry">
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ThfCISDLxi8xhfDp9Rs2-15" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="ThfCISDLxi8xhfDp9Rs2-12">
+        <mxCell id="ThfCISDLxi8xhfDp9Rs2-15" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="ThfCISDLxi8xhfDp9Rs2-12" vertex="1">
           <mxGeometry x="120" width="60" height="40" as="geometry">
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ThfCISDLxi8xhfDp9Rs2-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ThfCISDLxi8xhfDp9Rs2-16" target="ThfCISDLxi8xhfDp9Rs2-19">
+        <mxCell id="ThfCISDLxi8xhfDp9Rs2-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ThfCISDLxi8xhfDp9Rs2-16" target="ThfCISDLxi8xhfDp9Rs2-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ThfCISDLxi8xhfDp9Rs2-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ThfCISDLxi8xhfDp9Rs2-16" target="ThfCISDLxi8xhfDp9Rs2-21">
+        <mxCell id="ThfCISDLxi8xhfDp9Rs2-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ThfCISDLxi8xhfDp9Rs2-16" target="ThfCISDLxi8xhfDp9Rs2-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ThfCISDLxi8xhfDp9Rs2-16" value="JUDGE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1590" y="1810" width="120" height="60" as="geometry" />
+        <mxCell id="ThfCISDLxi8xhfDp9Rs2-16" value="JUDGE" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1590" y="1750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ThfCISDLxi8xhfDp9Rs2-18" value="Have you read the Intro?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="1870" width="100" height="30" as="geometry" />
+        <mxCell id="ThfCISDLxi8xhfDp9Rs2-18" value="Have you read the Intro?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1600" y="1810" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ThfCISDLxi8xhfDp9Rs2-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ThfCISDLxi8xhfDp9Rs2-19" target="ThfCISDLxi8xhfDp9Rs2-2">
+        <mxCell id="ThfCISDLxi8xhfDp9Rs2-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ThfCISDLxi8xhfDp9Rs2-19" target="ThfCISDLxi8xhfDp9Rs2-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1440" y="1720" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ThfCISDLxi8xhfDp9Rs2-19" value="INTRO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ThfCISDLxi8xhfDp9Rs2-19" value="INTRO" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1380" y="1810" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ThfCISDLxi8xhfDp9Rs2-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ThfCISDLxi8xhfDp9Rs2-21" target="ThfCISDLxi8xhfDp9Rs2-47">
+        <mxCell id="KHyvK6o0mQSgmpEVRxSi-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ThfCISDLxi8xhfDp9Rs2-21" target="KHyvK6o0mQSgmpEVRxSi-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ThfCISDLxi8xhfDp9Rs2-21" value="INDEX" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ThfCISDLxi8xhfDp9Rs2-21" value="INDEX" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1800" y="1810" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ThfCISDLxi8xhfDp9Rs2-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ThfCISDLxi8xhfDp9Rs2-47" target="ThfCISDLxi8xhfDp9Rs2-49">
+        <mxCell id="ThfCISDLxi8xhfDp9Rs2-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ThfCISDLxi8xhfDp9Rs2-47" target="ThfCISDLxi8xhfDp9Rs2-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ThfCISDLxi8xhfDp9Rs2-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ThfCISDLxi8xhfDp9Rs2-47" target="ThfCISDLxi8xhfDp9Rs2-50">
+        <mxCell id="ThfCISDLxi8xhfDp9Rs2-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ThfCISDLxi8xhfDp9Rs2-47" target="ThfCISDLxi8xhfDp9Rs2-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ThfCISDLxi8xhfDp9Rs2-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ThfCISDLxi8xhfDp9Rs2-47" target="ThfCISDLxi8xhfDp9Rs2-19">
+        <mxCell id="ThfCISDLxi8xhfDp9Rs2-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="ThfCISDLxi8xhfDp9Rs2-47" target="ThfCISDLxi8xhfDp9Rs2-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1860" y="2060" />
@@ -112,20 +112,113 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ThfCISDLxi8xhfDp9Rs2-47" value="JUDGE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1800" y="1930" width="120" height="60" as="geometry" />
+        <mxCell id="ThfCISDLxi8xhfDp9Rs2-47" value="JUDGE" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1800" y="1870" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ThfCISDLxi8xhfDp9Rs2-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ThfCISDLxi8xhfDp9Rs2-49" target="ThfCISDLxi8xhfDp9Rs2-47">
+        <mxCell id="ThfCISDLxi8xhfDp9Rs2-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ThfCISDLxi8xhfDp9Rs2-49" target="ThfCISDLxi8xhfDp9Rs2-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ThfCISDLxi8xhfDp9Rs2-49" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="1930" width="120" height="60" as="geometry" />
+        <mxCell id="ThfCISDLxi8xhfDp9Rs2-49" value="Humans and Sound" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1590" y="1870" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ThfCISDLxi8xhfDp9Rs2-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ThfCISDLxi8xhfDp9Rs2-50" target="ThfCISDLxi8xhfDp9Rs2-47">
+        <mxCell id="ThfCISDLxi8xhfDp9Rs2-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ThfCISDLxi8xhfDp9Rs2-50" target="ThfCISDLxi8xhfDp9Rs2-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ThfCISDLxi8xhfDp9Rs2-50" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ThfCISDLxi8xhfDp9Rs2-50" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2000" y="1930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KHyvK6o0mQSgmpEVRxSi-1" value="B" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="1930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KHyvK6o0mQSgmpEVRxSi-2" value="README" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="1690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KHyvK6o0mQSgmpEVRxSi-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KHyvK6o0mQSgmpEVRxSi-4" target="KHyvK6o0mQSgmpEVRxSi-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KHyvK6o0mQSgmpEVRxSi-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KHyvK6o0mQSgmpEVRxSi-4" target="KHyvK6o0mQSgmpEVRxSi-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KHyvK6o0mQSgmpEVRxSi-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KHyvK6o0mQSgmpEVRxSi-4" target="KHyvK6o0mQSgmpEVRxSi-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KHyvK6o0mQSgmpEVRxSi-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KHyvK6o0mQSgmpEVRxSi-4" target="KHyvK6o0mQSgmpEVRxSi-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KHyvK6o0mQSgmpEVRxSi-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KHyvK6o0mQSgmpEVRxSi-4" target="KHyvK6o0mQSgmpEVRxSi-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KHyvK6o0mQSgmpEVRxSi-4" value="人与声" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KHyvK6o0mQSgmpEVRxSi-5" value="&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: start;&quot;&gt;人类利用声音进行交流的历史远比想象中悠久。考古学研究显示，&lt;/span&gt;&lt;strong style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: start;&quot;&gt;35万年前的原始人类耳部已进化出特殊骨骼结构&lt;/strong&gt;&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: start;&quot;&gt;，这种构造能有效捕捉并解析声波振动——这意味着早在智人演化的黎明时期，&lt;/span&gt;&lt;strong style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: start;&quot;&gt;通过声音传递复杂信息的能力就已萌芽&lt;/strong&gt;&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: start;&quot;&gt;。&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="160" width="190" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="KHyvK6o0mQSgmpEVRxSi-6" value="&lt;strong style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: start;&quot;&gt;系统化的声学研究&lt;/strong&gt;&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: start;&quot;&gt;则始于公元前6世纪：毕达哥拉斯通过琴弦实验发现&lt;/span&gt;&lt;strong style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: start;&quot;&gt;弦长比例决定音高&lt;/strong&gt;&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: start;&quot;&gt;的数学规律，为声学奠定量化基础。17世纪伽利略观察到振动幅度与声音强度的直接关联，由此提出&lt;/span&gt;&lt;strong style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: start;&quot;&gt;振幅&lt;/strong&gt;&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: start;&quot;&gt;概念。19世纪迎来理论爆发期：亥姆霍兹用&lt;/span&gt;&lt;strong style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: start;&quot;&gt;谐波分析&lt;/strong&gt;&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: start;&quot;&gt;解密音色本质，揭示不同声波叠加如同「声学调色盘」；瑞利男爵则在《声学理论》中严谨论证&lt;/span&gt;&lt;strong style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: start;&quot;&gt;声音本质是空气的机械波动&lt;/strong&gt;&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: start;&quot;&gt;，如同石子入水激发的涟漪。&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="440" width="190" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="KHyvK6o0mQSgmpEVRxSi-7" value="&lt;strong style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: start;&quot;&gt;基于这些科学发现的声音技术&lt;/strong&gt;&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: start;&quot;&gt;已深度融入现代社会：在家中，&lt;/span&gt;&lt;strong style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: start;&quot;&gt;HomePod&lt;/strong&gt;&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: start;&quot;&gt;凭借精密声学设计，精准重现来自世界各地的创作者制作的音乐；在医院，&lt;/span&gt;&lt;strong style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: start;&quot;&gt;彩超&lt;/strong&gt;&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: start;&quot;&gt;通过2-10MHz高频声波穿透皮肤，结合多普勒效应生成动态脏器影像；在海洋科考中，&lt;/span&gt;&lt;strong style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: start;&quot;&gt;声呐&lt;/strong&gt;&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: start;&quot;&gt;系统发射20-50kHz探测声波，同步绘制海底地形与生物活动热区。&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="820" width="190" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="KHyvK6o0mQSgmpEVRxSi-8" value="&lt;p style=&quot;margin: calc(var(--ds-md-zoom)*12px)0; font-size: 16.002px; line-height: var(--ds-md-line-height); color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; text-align: start;&quot;&gt;&lt;strong&gt;当前声学前沿技术&lt;/strong&gt;正突破传统物理边界：医疗领域采用&lt;strong&gt;超声刀&lt;/strong&gt;聚焦声波能量，实现毫米级肿瘤精准消融；实验室通过&lt;strong&gt;声镊技术&lt;/strong&gt;用声波形成「能量陷阱」操控微观粒子。而处于实验阶段的&lt;strong&gt;非接触式3D打印&lt;/strong&gt;，已能通过声波阵列悬浮组装塑料微粒，为未来无模具制造提供可能。&lt;/p&gt;&lt;p style=&quot;margin: calc(var(--ds-md-zoom)*12px)0; font-size: 16.002px; line-height: var(--ds-md-line-height); color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; text-align: start;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1200" width="190" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="KHyvK6o0mQSgmpEVRxSi-9" value="&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Inter, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: start;&quot;&gt;从原始人震动声带的第一次呼喊，到实验室里精微的声波操控，人类解码声音奥秘的历程始终与文明进程交织。每一次声学技术的突破，都在重新定义我们感知世界的方式——这或许正是科学与人文最深邃的和鸣。&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1510" width="190" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="KHyvK6o0mQSgmpEVRxSi-15" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;Humans have been using sound to communicate for much longer than thought. Archaeological studies have shown that the ear of primitive humans from &lt;strong&gt;350,000 years ago&lt;/strong&gt; had evolved a special skeletal structure that was able to effectively capture and resolve sound vibrations - implying that the ability to communicate complex information through sound was already well established in the early stages of Homo sapiens&#39; evolution.&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="160" width="190" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="KHyvK6o0mQSgmpEVRxSi-16" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;The systematic study of sound in the history of science began in the &lt;strong&gt;6th century B.C.&lt;/strong&gt;: &lt;strong&gt;Pythagoras&lt;/strong&gt; discovered the mathematical rule that the ratio of string lengths determines pitch through string experiments, thus laying a quantitative foundation for acoustics; in the &lt;strong&gt;17th century&lt;/strong&gt;, &lt;strong&gt;Galileo&lt;/strong&gt; observed a direct correlation between the amplitude of vibrations and the intensity of sound, thus proposing the concept of amplitude; in the &lt;strong&gt;19th century&lt;/strong&gt;, there was a burst of theoretical discovery: &lt;strong&gt;Helmholtz&lt;/strong&gt; deciphered the essence of timbre through harmonic analysis, and revealed that superimposition of different waves is like the ‘acoustic palette’; and in the 19th century, the theory exploded. ‘The 19th century saw an explosion of theory: Helmholtz used harmonic analysis to decipher the nature of timbre, revealing that the superposition of different sound waves was like an acoustic palette, while &lt;strong&gt;Baron Riley&lt;/strong&gt; rigorously argued in &lt;strong&gt;The Theory of Acoustics&lt;/strong&gt; that the nature of sound was a mechanical fluctuation of the air, like the ripples triggered by a stone in water.&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="440" width="300" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="KHyvK6o0mQSgmpEVRxSi-17" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;span style=&quot;color: rgb(6, 6, 7); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Segoe UI&amp;quot;, Arial, Roboto, &amp;quot;PingFang SC&amp;quot;, MIUI, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.25px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;Sound technologies based on these scientific discoveries have been deeply integrated into modern society: at home, &lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-weight: 700; font-stretch: inherit; font-size: 14px; line-height: inherit; font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Segoe UI&amp;quot;, Arial, Roboto, &amp;quot;PingFang SC&amp;quot;, MIUI, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, sans-serif; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; color: rgb(6, 6, 7); letter-spacing: 0.25px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot; class=&quot;&quot;&gt;HomePod&lt;/span&gt;&lt;span style=&quot;color: rgb(6, 6, 7); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Segoe UI&amp;quot;, Arial, Roboto, &amp;quot;PingFang SC&amp;quot;, MIUI, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.25px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt; accurately reproduces music made by creators from all over the world by virtue of its sophisticated acoustic design; in hospitals, color ultrasound penetrates the skin through &lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-weight: 700; font-stretch: inherit; font-size: 14px; line-height: inherit; font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Segoe UI&amp;quot;, Arial, Roboto, &amp;quot;PingFang SC&amp;quot;, MIUI, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, sans-serif; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; color: rgb(6, 6, 7); letter-spacing: 0.25px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot; class=&quot;&quot;&gt;2-10MHz&lt;/span&gt;&lt;span style=&quot;color: rgb(6, 6, 7); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Segoe UI&amp;quot;, Arial, Roboto, &amp;quot;PingFang SC&amp;quot;, MIUI, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.25px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt; high-frequency sound waves and combines with the Doppler effect to generate dynamic images of organs; and in oceanographic surveys, sonar systems emit &lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-weight: 700; font-stretch: inherit; font-size: 14px; line-height: inherit; font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Segoe UI&amp;quot;, Arial, Roboto, &amp;quot;PingFang SC&amp;quot;, MIUI, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, sans-serif; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; color: rgb(6, 6, 7); letter-spacing: 0.25px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot; class=&quot;&quot;&gt;20-50kHz&lt;/span&gt;&lt;span style=&quot;color: rgb(6, 6, 7); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Segoe UI&amp;quot;, Arial, Roboto, &amp;quot;PingFang SC&amp;quot;, MIUI, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.25px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt; detection sound waves to synchronously map the seabed topography and hot zones of biological activities.&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="820" width="260" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="KHyvK6o0mQSgmpEVRxSi-18" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;Currently, acoustic cutting-edge technologies are breaking through the traditional physical boundaries: the medical field uses &lt;strong&gt;ultrasonic knives&lt;/strong&gt; to focus acoustic energy to achieve millimetre-scale accurate ablation of tumours; laboratories use &lt;strong&gt;acoustic tweezers&lt;/strong&gt; to form ‘energy traps’ to manipulate microscopic particles. The experimental stage of &lt;strong&gt;non-contact 3D printing&lt;/strong&gt; has been able to levitate and assemble plastic particles through acoustic wave arrays, providing the possibility of mould-free manufacturing in the future.&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1200" width="200" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="KHyvK6o0mQSgmpEVRxSi-19" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;From the first cry of primitive man&#39;s vibrating vocal cords to the subtle acoustic manipulation in the laboratory, the journey of human beings to decode the mysteries of sound has always been intertwined with the process of civilisation. Every breakthrough in acoustic technology is redefining the way we perceive the world - perhaps the deepest harmony between science and humanity.&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1510" width="180" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="KHyvK6o0mQSgmpEVRxSi-20" value="人类与声音的渊源" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="130" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KHyvK6o0mQSgmpEVRxSi-22" value="&lt;p&gt;&quot;Humanity&#39;s Connection with Sound&quot;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="130" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KHyvK6o0mQSgmpEVRxSi-23" value="Human study of sound" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="410" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KHyvK6o0mQSgmpEVRxSi-24" value="人类对声音的研究" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="410" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KHyvK6o0mQSgmpEVRxSi-25" value="&lt;p&gt;Application of sound in modern society&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="790" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KHyvK6o0mQSgmpEVRxSi-26" value="声音在现代社会中的应用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="790" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KHyvK6o0mQSgmpEVRxSi-27" value="声音技术的前沿突破" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1170" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KHyvK6o0mQSgmpEVRxSi-28" value="Frontier Breakthroughs in Sound Technology" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1170" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KHyvK6o0mQSgmpEVRxSi-29" value="Humans and Sound" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KHyvK6o0mQSgmpEVRxSi-30" value="https://www.zgbk.com/upload/wordresources/wikiimage/2023/03/31/1855951575366863097_thumbnail.jpg&lt;div&gt;https://images.newscientist.com/wp-content/uploads/2011/11/mg21228404.400-4_500.jpg?width=1674&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="90" width="580" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KHyvK6o0mQSgmpEVRxSi-31" value="https://i1.read01.com/Ll-RGJNcZ0FLVzQ7QGyDlEE/0.jpg" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="30" y="575" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KHyvK6o0mQSgmpEVRxSi-32" value="https://image.sciencenet.cn/home/201801/03/130944t2773dwdoj6huo2x.jpg" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-92.5" y="547.5" width="410" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="KHyvK6o0mQSgmpEVRxSi-33" value="BV1f54y1j7N1" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="55" y="552.5" width="87.5" height="12.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
