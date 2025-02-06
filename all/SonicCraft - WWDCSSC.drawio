@@ -76,7 +76,7 @@
         <mxCell id="ThfCISDLxi8xhfDp9Rs2-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ThfCISDLxi8xhfDp9Rs2-16" target="ThfCISDLxi8xhfDp9Rs2-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ThfCISDLxi8xhfDp9Rs2-16" value="JUDGE" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ThfCISDLxi8xhfDp9Rs2-16" value="JUDGE1" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1590" y="1750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ThfCISDLxi8xhfDp9Rs2-18" value="Have you read the Intro?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -327,6 +327,9 @@
         <mxCell id="__nNQUy4a6hF3VQ3bLD0-23" value="&lt;div&gt;Duration:&lt;/div&gt;&lt;div&gt;Unit: second (s)&lt;/div&gt;&lt;div&gt;Definition: Duration is the duration of sound, i.e. the length of time a sound wave exists.&lt;/div&gt;&lt;div&gt;Application: Morse code&lt;/div&gt;&lt;div&gt;Atlas:&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="1580" y="-10" width="260" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="__nNQUy4a6hF3VQ3bLD0-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="__nNQUy4a6hF3VQ3bLD0-29" target="KHyvK6o0mQSgmpEVRxSi-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="__nNQUy4a6hF3VQ3bLD0-29" value="Knowing Sound" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1660" y="1870" width="120" height="60" as="geometry" />
         </mxCell>
@@ -341,6 +344,9 @@
         </mxCell>
         <mxCell id="__nNQUy4a6hF3VQ3bLD0-33" value="&lt;span style=&quot;text-align: left;&quot;&gt;Morse code&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2160" y="2010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="__nNQUy4a6hF3VQ3bLD0-38" value="请用swift语言为我做以下app playground框架：首先是目录：（除了page目录以外请创建一个img目录用于存放图片，创建一个record目录用来存放录音），然后是内容：打开app，强制横屏，首先获取该app的名称，并储存为全局变量name1（我们约定，当我们使用[var]时，调用变量var的值进行强制类型转换成字符串后来填充替代[var]，例如（定义 bianliang == 123，print（[bianliang]）则输出“123”，print（“”hello [bianliang]）则输出“hello 123”）），然后执行JUDGE1流程，（JUDGE1流程的任务是检查一个初始值为0名为init的变量，如果该变量为0或不存在该变量，则创建该全局变量init为0后进入到INTRO页面，否则进入INDEX页面，该流程在后台完成，前端没有任何提示）（INTRO页面将生成一个动画（目前留白），左上角将留有一个圆形的按钮A，当进入INTRO页面时检查全局变量，若init为0，则按钮A内含文字“skip”，否则显示“exit”。当点击按钮A后将init的值设置为1然后执行JUDGE1流程）（在INDEX页面的画面中间是一张圆角卡片，（圆角卡片之中有三行居中的内容，第一行将是一张img，第二行写着“Welcome to [name1]”，第三行写着“Which part do you want to know?”）在圆角卡片的周围有围绕着移动的四个卡片按钮，分别为按钮B、按钮C、按钮D、按钮E（按钮B内显文字“Watch the introduction again”，点击后进入到INTRO页面；按钮C内显文字“Knowing Sound”，点击后进入到KS页面；按钮D内显文字“Play with Sound”，点击后进入到PS页面；按钮E内显文字&quot;About App&quot;，点击后进入README页面））（KS页面首先要求左上角常驻按钮F，点击按钮F即可返回到INDEX页面，然后在屏幕下端常驻设置一个导航栏，导航栏有两个选项（选项1与选项2）（选项1在导航栏显示“Humans and Sound”，点击后先把屏幕中除了返回键与导航栏以外的东西隐藏，然后在屏幕中间显示四张并列的卡片，每张卡片的上半部分是一张img，平滑过渡到下半部分则是卡片）））" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="2160" width="410" height="290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
