@@ -1,90 +1,9 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.3">
   <diagram name="第 1 页" id="umrwjSgqTs6-wb3iwprB">
-    <mxGraphModel dx="795" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="2980" dy="1960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="M1dsXv7yGWbkJlxqNbTj-47" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2290" y="3020" width="960" height="380" as="geometry" />
-        </mxCell>
-        <mxCell id="M1dsXv7yGWbkJlxqNbTj-21" value="*细胞能量的供应和利用" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-47">
-          <mxGeometry x="120" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="M1dsXv7yGWbkJlxqNbTj-22" value="遗传因子的发现" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-47">
-          <mxGeometry x="120" y="80" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="M1dsXv7yGWbkJlxqNbTj-23" value="必修一" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-47">
-          <mxGeometry width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="M1dsXv7yGWbkJlxqNbTj-24" value="必修二" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-47">
-          <mxGeometry y="80" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="M1dsXv7yGWbkJlxqNbTj-25" value="基因和染色体的关系" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-47">
-          <mxGeometry x="240" y="80" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="M1dsXv7yGWbkJlxqNbTj-26" value="基因的本质" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-47">
-          <mxGeometry x="360" y="80" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="M1dsXv7yGWbkJlxqNbTj-27" value="基因的表达" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-47">
-          <mxGeometry x="480" y="80" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="M1dsXv7yGWbkJlxqNbTj-28" value="基因突变及其他变异" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-47">
-          <mxGeometry x="600" y="80" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="M1dsXv7yGWbkJlxqNbTj-29" value="从杂交育种到基因工程" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-47">
-          <mxGeometry x="720" y="80" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="M1dsXv7yGWbkJlxqNbTj-30" value="现代生物进化理论" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-47">
-          <mxGeometry x="840" y="80" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="M1dsXv7yGWbkJlxqNbTj-31" value="选必一" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-47">
-          <mxGeometry y="160" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="M1dsXv7yGWbkJlxqNbTj-32" value="人体内环境和稳态" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-47">
-          <mxGeometry x="120" y="160" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="M1dsXv7yGWbkJlxqNbTj-33" value="选必二" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-47">
-          <mxGeometry y="240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="M1dsXv7yGWbkJlxqNbTj-34" value="种群及其动态" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-47">
-          <mxGeometry x="120" y="240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="M1dsXv7yGWbkJlxqNbTj-35" value="神经调节" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-47">
-          <mxGeometry x="240" y="160" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="M1dsXv7yGWbkJlxqNbTj-36" value="植物生命活动的调节" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-47">
-          <mxGeometry x="600" y="160" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="M1dsXv7yGWbkJlxqNbTj-37" value="体液调节" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-47">
-          <mxGeometry x="360" y="160" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="M1dsXv7yGWbkJlxqNbTj-38" value="生态系统及其稳定性" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-47">
-          <mxGeometry x="360" y="240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="M1dsXv7yGWbkJlxqNbTj-39" value="生态环境的保护" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-47">
-          <mxGeometry x="720" y="160" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="M1dsXv7yGWbkJlxqNbTj-40" value="群落及其演替" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-47">
-          <mxGeometry x="240" y="240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="M1dsXv7yGWbkJlxqNbTj-41" value="发酵工程" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-47">
-          <mxGeometry x="120" y="320" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="M1dsXv7yGWbkJlxqNbTj-42" value="人与环境" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-47">
-          <mxGeometry x="480" y="240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="M1dsXv7yGWbkJlxqNbTj-43" value="选必三" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-47">
-          <mxGeometry y="320" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="M1dsXv7yGWbkJlxqNbTj-44" value="基因工程" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-47">
-          <mxGeometry x="360" y="320" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="M1dsXv7yGWbkJlxqNbTj-45" value="免疫调节" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-47">
-          <mxGeometry x="480" y="160" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="M1dsXv7yGWbkJlxqNbTj-46" value="细胞工程" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-47">
-          <mxGeometry x="240" y="320" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="M1dsXv7yGWbkJlxqNbTj-58" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="2290" y="2820" width="720" height="140" as="geometry" />
         </mxCell>
@@ -327,6 +246,246 @@
         </mxCell>
         <mxCell id="M1dsXv7yGWbkJlxqNbTj-93" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Dear teachers and students,&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp; In response to the growing threat of climate change, our school is launching a campaign titled &quot;Low-Carbon Life, Green Future&quot;, aiming to protect the environment and ensure a sustainable future for all.&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp;To achieve this, we should do as follows. Firstly, we should choose green travel options like walking or public transport. Moreover, it is urged that we save energy by turning off unused lights and appliances. Lastly, we should place importance on reducing waste by recycling and avoiding single-use plastics. These small actions, when multiplied, can have a significant impact.&lt;/div&gt;&lt;div style=&quot;text-align: right;&quot;&gt;&amp;nbsp; &amp;nbsp;Let’s take action and build a greener future.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;Li Hua&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: right;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-94">
           <mxGeometry x="345" y="320" width="340" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-130" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1580" y="499" width="600" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-125" value="*细胞能量的供应和利用" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-130">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-126" value="降低化学反应活化能的酶" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-130">
+          <mxGeometry x="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-127" value="ATP" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-130">
+          <mxGeometry x="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-128" value="细胞呼吸" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-130">
+          <mxGeometry x="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-129" value="光合作用" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-130">
+          <mxGeometry x="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-21" value="*细胞能量的供应和利用" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=0;fillColor=default;movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-22" value="遗传因子的发现" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=0;fillColor=default;movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-23" value="必修一" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=0;fillColor=default;movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-24" value="必修二" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=0;fillColor=default;movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-25" value="基因和染色体的关系" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=0;fillColor=default;movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-26" value="基因的本质" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=0;fillColor=default;movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-27" value="基因的表达" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=0;fillColor=default;movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="2060" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-28" value="基因突变及其他变异" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=0;fillColor=default;movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="2180" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-29" value="生物的进化" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=0;fillColor=default;movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="2300" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-31" value="选必一" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=0;fillColor=default;movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-32" value="人体内环境和稳态" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=0;fillColor=default;movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-33" value="选必二" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=0;fillColor=default;movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-34" value="种群及其动态" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=0;fillColor=default;movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-35" value="神经调节" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=0;fillColor=default;movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-36" value="植物生命活动的调节" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=0;fillColor=default;movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="2180" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-37" value="体液调节" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=0;fillColor=default;movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-38" value="生态系统及其稳定性" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=0;fillColor=default;movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-39" value="生态环境的保护" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=0;fillColor=default;movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="2300" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-40" value="群落及其演替" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=0;fillColor=default;movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-41" value="发酵工程" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=0;fillColor=default;movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-42" value="人与环境" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=0;fillColor=default;movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="2060" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-43" value="选必三" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=0;fillColor=default;movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-44" value="基因工程" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=0;fillColor=default;movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-45" value="免疫调节" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=0;fillColor=default;movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="2060" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-46" value="细胞工程" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=0;fillColor=default;movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-138" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1580" y="580" width="840" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-131" value="分离定律" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-138">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-132" value="自由组合定律" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-138">
+          <mxGeometry x="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-133" value="假说-演绎法" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-138">
+          <mxGeometry x="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-134" value="减数分裂" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-138">
+          <mxGeometry x="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-135" value="受精作用" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-138">
+          <mxGeometry x="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-136" value="基因在染色体上" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-138">
+          <mxGeometry x="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-137" value="伴性遗传" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-138">
+          <mxGeometry x="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-156" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1580" y="660" width="600" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-139" value="稳态定义" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-156">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-140" value="稳态影响因素" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-156">
+          <mxGeometry x="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-141" value="结构基础" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-156">
+          <mxGeometry y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-142" value="基本方式" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-156">
+          <mxGeometry x="120" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-143" value="产生与传导" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-156">
+          <mxGeometry x="240" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-144" value="分级调节" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-156">
+          <mxGeometry x="360" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-145" value="人脑高级功能" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-156">
+          <mxGeometry x="480" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-146" value="激素与内分泌系统" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-156">
+          <mxGeometry y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-147" value="调节过程" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-156">
+          <mxGeometry x="120" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-148" value="与神经调节的关系" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-156">
+          <mxGeometry x="240" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-149" value="组成与功能" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-156">
+          <mxGeometry y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-150" value="特异性免疫" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-156">
+          <mxGeometry x="120" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-151" value="免疫失调" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-156">
+          <mxGeometry x="240" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-152" value="免疫学应用" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-156">
+          <mxGeometry x="360" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-153" value="六大植物激素" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-156">
+          <mxGeometry y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-154" value="植物生长调节剂" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-156">
+          <mxGeometry x="120" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-155" value="环境因素" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-156">
+          <mxGeometry x="240" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-171" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1580" y="980" width="600" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-157" value="种群密度" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-171">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-158" value="数量变化&lt;div&gt;（环境容载量）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-171">
+          <mxGeometry x="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-159" value="影响因素" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-171">
+          <mxGeometry x="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-160" value="群落结构" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-171">
+          <mxGeometry y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-161" value="群落类型" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-171">
+          <mxGeometry x="120" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-162" value="群落演替" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-171">
+          <mxGeometry x="240" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-163" value="系统结构" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-171">
+          <mxGeometry y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-164" value="能量流动" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-171">
+          <mxGeometry x="120" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-165" value="物质循环" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-171">
+          <mxGeometry x="240" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-166" value="信息传递" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-171">
+          <mxGeometry x="360" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-167" value="稳定性" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-171">
+          <mxGeometry x="480" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-168" value="生态工程" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-171">
+          <mxGeometry x="240" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-169" value="生物多样性" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-171">
+          <mxGeometry x="120" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-170" value="生态问题" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-171">
+          <mxGeometry y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-179" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1580" y="1240" width="360" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-172" value="果酒果醋泡菜腐乳" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-179">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-173" value="培养与计数" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-179">
+          <mxGeometry x="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-174" value="发酵工程" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-179">
+          <mxGeometry x="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-175" value="植物细胞工程" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-179">
+          <mxGeometry y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-176" value="动物细胞工程" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-179">
+          <mxGeometry x="120" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-177" value="胚胎工程" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-179">
+          <mxGeometry x="240" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-178" value="重组DNA的基本工具" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-179">
+          <mxGeometry y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
