@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.3" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.3" pages="3">
   <diagram name="main" id="umrwjSgqTs6-wb3iwprB">
-    <mxGraphModel dx="2980" dy="1960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1738" dy="1064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="M1dsXv7yGWbkJlxqNbTj-58" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2290" y="2820" width="720" height="140" as="geometry" />
+          <mxGeometry x="2500" y="2910" width="720" height="140" as="geometry" />
         </mxCell>
         <mxCell id="M1dsXv7yGWbkJlxqNbTj-48" value="选必二" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-58">
           <mxGeometry width="120" height="60" as="geometry" />
@@ -33,30 +33,6 @@
         </mxCell>
         <mxCell id="M1dsXv7yGWbkJlxqNbTj-57" value="气体、固体和液体" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-58">
           <mxGeometry x="240" y="80" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="M1dsXv7yGWbkJlxqNbTj-60" value="选必二" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2290" y="2570" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="M1dsXv7yGWbkJlxqNbTj-61" value="原子结构与性质" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2410" y="2570" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="M1dsXv7yGWbkJlxqNbTj-62" value="分子结构与性质" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2530" y="2570" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="M1dsXv7yGWbkJlxqNbTj-63" value="离子结构与性质" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2650" y="2570" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="M1dsXv7yGWbkJlxqNbTj-64" value="选必三" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2290" y="2650" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="M1dsXv7yGWbkJlxqNbTj-65" value="有机化合物的结构特点与研究方法" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2410" y="2650" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="M1dsXv7yGWbkJlxqNbTj-66" value="烃" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2530" y="2650" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="M1dsXv7yGWbkJlxqNbTj-67" value="烃的衍生物" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2650" y="2650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M1dsXv7yGWbkJlxqNbTj-75" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="230" y="3000" width="480" height="140" as="geometry" />
@@ -490,11 +466,38 @@
         <mxCell id="M1dsXv7yGWbkJlxqNbTj-46" value="细胞工程" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="M1dsXv7yGWbkJlxqNbTj-180">
           <mxGeometry x="240" y="320" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-TmXOY_5zMxw_2VU11EC-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1410" y="2960" width="480" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-60" value="选必二" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="-TmXOY_5zMxw_2VU11EC-1">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-61" value="原子结构与性质" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="-TmXOY_5zMxw_2VU11EC-1">
+          <mxGeometry x="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-62" value="分子结构与性质" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="-TmXOY_5zMxw_2VU11EC-1">
+          <mxGeometry x="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-63" value="离子结构与性质" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="-TmXOY_5zMxw_2VU11EC-1">
+          <mxGeometry x="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-64" value="选必三" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="-TmXOY_5zMxw_2VU11EC-1">
+          <mxGeometry y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-65" value="有机化合物的结构特点与研究方法" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="-TmXOY_5zMxw_2VU11EC-1">
+          <mxGeometry x="120" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-66" value="烃" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="-TmXOY_5zMxw_2VU11EC-1">
+          <mxGeometry x="240" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1dsXv7yGWbkJlxqNbTj-67" value="烃的衍生物" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="-TmXOY_5zMxw_2VU11EC-1">
+          <mxGeometry x="360" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="Ky6cOxJ18xBnBddFyJ0i" name="生物">
-    <mxGraphModel dx="1448" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -974,6 +977,50 @@
         </mxCell>
         <mxCell id="IwmDZE2_lCurSOUHkjlp-84" value="外植体" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1730" y="4461" width="80" height="19" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="JsG1b7yrILdqlRxtzsrg" name="数学">
+    <mxGraphModel dx="869" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vTqmYqgEY8lEuluq_DgE-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="230" y="3000" width="480" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="vTqmYqgEY8lEuluq_DgE-2" value="选必二" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="vTqmYqgEY8lEuluq_DgE-1">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vTqmYqgEY8lEuluq_DgE-3" value="数列" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="vTqmYqgEY8lEuluq_DgE-1">
+          <mxGeometry x="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vTqmYqgEY8lEuluq_DgE-4" value="一元函数的导数及其应用" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="vTqmYqgEY8lEuluq_DgE-1">
+          <mxGeometry x="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vTqmYqgEY8lEuluq_DgE-5" value="选必三" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="vTqmYqgEY8lEuluq_DgE-1">
+          <mxGeometry y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vTqmYqgEY8lEuluq_DgE-6" value="计数原理" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="vTqmYqgEY8lEuluq_DgE-1">
+          <mxGeometry x="120" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vTqmYqgEY8lEuluq_DgE-7" value="随机变量及其分布" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="vTqmYqgEY8lEuluq_DgE-1">
+          <mxGeometry x="240" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vTqmYqgEY8lEuluq_DgE-8" value="成对数据的统计分析" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="vTqmYqgEY8lEuluq_DgE-1">
+          <mxGeometry x="360" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vTqmYqgEY8lEuluq_DgE-9" value="等差数列求和公式&lt;div&gt;Sn=nA1+n(n-1)d/2&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="230" y="3240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vTqmYqgEY8lEuluq_DgE-10" value="等比数列求和公式&lt;div&gt;Sn=A1(1-q`n)/(1-q)&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;=(A1-An~·q)/(1-q)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="350" y="3240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vTqmYqgEY8lEuluq_DgE-11" value="等差数列通式&lt;div&gt;An=A1+(n-1)d&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="230" y="3180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vTqmYqgEY8lEuluq_DgE-12" value="等比数列通式&lt;div&gt;An=A1·q`(n-1)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="350" y="3180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
