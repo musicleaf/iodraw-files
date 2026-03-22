@@ -1,0 +1,572 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.1 Chrome/142.0.7444.265 Electron/39.8.0 Safari/537.36" version="29.6.1" pages="4">
+  <diagram id="p1" name="理综总纲（跨学科）">
+    <mxGraphModel dx="2200" dy="1300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="1400" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="t1" value="理综总纲（跨学科）" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=28;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="760" y="20" width="680" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p0" value="物理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="100" y="140" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c0" value="化学" style="rounded=1;whiteSpace=wrap;html=1;fontSize=26;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="880" y="120" width="440" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="b0" value="生物" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="140" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="p1a" value="运动" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#edf3fe;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="60" y="290" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p1b" value="力" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#edf3fe;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="180" y="290" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p1c" value="能量" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#edf3fe;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="300" y="290" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p1d" value="电" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#edf3fe;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="120" y="390" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p1e" value="场" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#edf3fe;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="240" y="390" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pk1" value="位移、速度、加速度" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#ffffff;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="340" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pk2" value="重力、弹力、摩擦力、牛顿定律" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#ffffff;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="180" y="340" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pk3" value="动能、势能、功、守恒" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#ffffff;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="280" y="440" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pk4" value="电场、电流、电路" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#ffffff;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="440" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pk5" value="电磁场、电磁波" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#ffffff;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="240" y="490" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c1a" value="原子" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#eaf4e8;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="820" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c1b" value="周期律" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#eaf4e8;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="950" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c1c" value="化学键" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#eaf4e8;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c1d" value="性质" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#eaf4e8;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c1e" value="反应" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#eaf4e8;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="890" y="380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c1f" value="计算" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#eaf4e8;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ck1" value="核外电子排布" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#ffffff;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="800" y="330" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ck2" value="半径、电负性" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#ffffff;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="950" y="330" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ck3" value="离子键、共价键" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#ffffff;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="330" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ck4" value="氧化还原、酸碱" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#ffffff;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="330" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ck5" value="离子反应、平衡" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#ffffff;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="880" y="430" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ck6" value="物质的量、守恒" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#ffffff;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="430" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b1a" value="细胞" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fdecea;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="290" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b1b" value="代谢" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fdecea;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="290" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b1c" value="遗传" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fdecea;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1950" y="290" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b1d" value="调节" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fdecea;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="390" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b1e" value="生态" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fdecea;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1890" y="390" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bk1" value="结构与功能" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#ffffff;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="340" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bk2" value="呼吸作用、光合作用、ATP" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#ffffff;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="340" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bk3" value="DNA、基因表达" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#ffffff;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1950" y="340" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bk4" value="神经、激素、免疫" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#ffffff;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="440" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bk5" value="种群、生态系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#ffffff;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1890" y="440" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e1" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;endFill=1;strokeWidth=3;strokeColor=#333333;" edge="1" parent="1" source="p0" target="c0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;endFill=1;strokeWidth=3;strokeColor=#333333;" edge="1" parent="1" source="c0" target="b0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x1" style="edgeStyle=orthogonalEdgeStyle;dashed=1;endArrow=open;strokeColor=#666666;" edge="1" parent="1" source="p1c" target="c1e">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x2" style="edgeStyle=orthogonalEdgeStyle;dashed=1;endArrow=open;strokeColor=#666666;" edge="1" parent="1" source="p1c" target="c1f">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x3" style="edgeStyle=orthogonalEdgeStyle;dashed=1;endArrow=open;strokeColor=#666666;" edge="1" parent="1" source="p1a" target="c1a">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x4" style="edgeStyle=orthogonalEdgeStyle;dashed=1;endArrow=open;strokeColor=#666666;" edge="1" parent="1" source="p1a" target="c1b">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5" style="edgeStyle=orthogonalEdgeStyle;dashed=1;endArrow=open;strokeColor=#666666;" edge="1" parent="1" source="c1c" target="b1a">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x6" style="edgeStyle=orthogonalEdgeStyle;dashed=1;endArrow=open;strokeColor=#666666;" edge="1" parent="1" source="c1c" target="b1c">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x7" style="edgeStyle=orthogonalEdgeStyle;dashed=1;endArrow=open;strokeColor=#666666;" edge="1" parent="1" source="c1e" target="b1b">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x8" style="edgeStyle=orthogonalEdgeStyle;dashed=1;endArrow=open;strokeColor=#666666;" edge="1" parent="1" source="c1e" target="b1d">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="p2" name="物理（知识点级）">
+    <mxGraphModel dx="2100" dy="1300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="1500" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pt" value="物理（知识点级）" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=30;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="760" y="20" width="680" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m1" value="运动" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="940" y="120" width="220" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="m2" value="力" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="940" y="250" width="220" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="m3" value="能量" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="940" y="380" width="220" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="m4" value="电" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="940" y="510" width="220" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="m5" value="场与波" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="940" y="640" width="220" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="a11" value="位移与路程" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#edf3fe;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="640" y="100" width="150" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="a12" value="速度与平均速度" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#edf3fe;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="640" y="138" width="170" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="a13" value="加速度" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#edf3fe;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="640" y="176" width="150" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="a14" value="匀变速直线运动公式" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#edf3fe;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="110" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="a15" value="图像（v-t, s-t）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#edf3fe;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="148" width="170" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="a21" value="重力（G=mg）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#edf3fe;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="620" y="230" width="170" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="a22" value="弹力（胡克定律）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#edf3fe;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="620" y="268" width="180" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="a23" value="摩擦力（滑动、静摩擦）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#edf3fe;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="620" y="306" width="210" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="a24" value="力的合成与分解" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#edf3fe;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="240" width="170" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="a25" value="牛顿三定律" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#edf3fe;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="278" width="170" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="a31" value="功（W=Fs）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#edf3fe;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="620" y="360" width="150" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="a32" value="功率（P=W/t）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#edf3fe;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="620" y="398" width="170" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="a33" value="动能（Ek=mv²/2）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#edf3fe;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="620" y="436" width="180" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="a34" value="重力势能" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#edf3fe;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="370" width="150" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="a35" value="机械能守恒" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#edf3fe;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="408" width="160" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="a41" value="电荷与库仑定律" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#edf3fe;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="620" y="492" width="180" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="a42" value="电场强度" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#edf3fe;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="620" y="530" width="150" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="a43" value="电势、电势差" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#edf3fe;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="620" y="568" width="160" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="a44" value="欧姆定律" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#edf3fe;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="500" width="150" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="a45" value="串并联电路" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#edf3fe;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="538" width="150" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="a51" value="磁场与磁感线" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#edf3fe;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="620" y="622" width="170" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="a52" value="电磁感应" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#edf3fe;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="620" y="660" width="150" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="a53" value="电磁波" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#edf3fe;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="632" width="140" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="a54" value="光的电磁本质" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#edf3fe;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="670" width="170" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="pe1" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;endFill=1;strokeWidth=3;strokeColor=#333333;" edge="1" parent="1" source="m1" target="m2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pe2" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;endFill=1;strokeWidth=3;strokeColor=#333333;" edge="1" parent="1" source="m2" target="m3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pe3" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;endFill=1;strokeWidth=3;strokeColor=#333333;" edge="1" parent="1" source="m3" target="m4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pe4" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;endFill=1;strokeWidth=3;strokeColor=#333333;" edge="1" parent="1" source="m4" target="m5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="p3" name="化学（知识点级）">
+    <mxGraphModel dx="1537" dy="952" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="1500" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4_i0IroZJ0dEOWj3PHwL-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="95" width="300" x="260" y="295" as="geometry" />
+        </mxCell>
+        <mxCell id="ct" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=30;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;" value="化学（知识点级）" vertex="1">
+          <mxGeometry height="60" width="680" x="760" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="c1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="组成" vertex="1">
+          <mxGeometry height="54" width="220" x="940" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="c2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="结构" vertex="1">
+          <mxGeometry height="54" width="220" x="940" y="245" as="geometry" />
+        </mxCell>
+        <mxCell id="c3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="性质" vertex="1">
+          <mxGeometry height="54" width="220" x="940" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="c4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="反应" vertex="1">
+          <mxGeometry height="54" width="220" x="940" y="495" as="geometry" />
+        </mxCell>
+        <mxCell id="c5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="计算" vertex="1">
+          <mxGeometry height="54" width="220" x="940" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="ca11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#eaf4e8;strokeColor=#82b366;" value="元素、原子、分子、离子" vertex="1">
+          <mxGeometry height="34" width="230" x="620" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ca12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#eaf4e8;strokeColor=#82b366;" value="相对原子质量" vertex="1">
+          <mxGeometry height="34" width="170" x="670" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ca13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#eaf4e8;strokeColor=#82b366;" value="物质分类（单质、化合物）" vertex="1">
+          <mxGeometry height="34" width="220" x="1180" y="129" as="geometry" />
+        </mxCell>
+        <mxCell id="4_i0IroZJ0dEOWj3PHwL-1" edge="1" parent="1" source="ca21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="cs113">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="238" />
+              <mxPoint x="550" y="227" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4_i0IroZJ0dEOWj3PHwL-2" edge="1" parent="1" source="ca21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="cs114">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="238" />
+              <mxPoint x="550" y="261" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4_i0IroZJ0dEOWj3PHwL-3" edge="1" parent="1" source="ca21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="cs112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4_i0IroZJ0dEOWj3PHwL-4" edge="1" parent="1" source="ca21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="cs111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ca21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#eaf4e8;strokeColor=#82b366;" value="原子结构" vertex="1">
+          <mxGeometry height="36" width="150" x="680" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="4_i0IroZJ0dEOWj3PHwL-6" edge="1" parent="1" source="ca22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="4_i0IroZJ0dEOWj3PHwL-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ca22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#eaf4e8;strokeColor=#82b366;" value="元素周期律" vertex="1">
+          <mxGeometry height="36" width="150" x="680" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="4_i0IroZJ0dEOWj3PHwL-7" edge="1" parent="1" source="ca24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="cs132" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4_i0IroZJ0dEOWj3PHwL-8" edge="1" parent="1" source="ca24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="cs132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ca24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#eaf4e8;strokeColor=#82b366;" value="化学键" vertex="1">
+          <mxGeometry height="36" width="150" x="1260" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="ca25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#eaf4e8;strokeColor=#82b366;" value="分子与物质结构" vertex="1">
+          <mxGeometry height="36" width="180" x="1260" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="cs111" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#ffffff;strokeColor=#82b366;" value="原子组成" vertex="1">
+          <mxGeometry height="30" width="140" x="280" y="144" as="geometry" />
+        </mxCell>
+        <mxCell id="cs112" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#ffffff;strokeColor=#82b366;" value="核外电子排布" vertex="1">
+          <mxGeometry height="30" width="140" x="280" y="178" as="geometry" />
+        </mxCell>
+        <mxCell id="cs113" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#ffffff;strokeColor=#82b366;" value="电子层与最外层电子" vertex="1">
+          <mxGeometry height="30" width="180" x="280" y="212" as="geometry" />
+        </mxCell>
+        <mxCell id="cs114" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#ffffff;strokeColor=#82b366;" value="原子结构示意图" vertex="1">
+          <mxGeometry height="30" width="150" x="280" y="246" as="geometry" />
+        </mxCell>
+        <mxCell id="cs121" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#ffffff;strokeColor=#82b366;" value="周期与族" vertex="1">
+          <mxGeometry height="30" width="130" x="280" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="cs122" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#ffffff;strokeColor=#82b366;" value="同周期递变" vertex="1">
+          <mxGeometry height="30" width="130" x="280" y="344" as="geometry" />
+        </mxCell>
+        <mxCell id="cs123" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#ffffff;strokeColor=#82b366;" value="同主族递变" vertex="1">
+          <mxGeometry height="30" width="130" x="420" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="cs124" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#ffffff;strokeColor=#82b366;" value="位-构-性" vertex="1">
+          <mxGeometry height="30" width="120" x="420" y="344" as="geometry" />
+        </mxCell>
+        <mxCell id="cs131" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#ffffff;strokeColor=#82b366;" value="离子键" vertex="1">
+          <mxGeometry height="30" width="120" x="1450" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="cs132" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#ffffff;strokeColor=#82b366;" value="共价键" vertex="1">
+          <mxGeometry height="30" width="120" x="1450" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="cs133" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#ffffff;strokeColor=#82b366;" value="键与能量变化" vertex="1">
+          <mxGeometry height="30" width="140" x="1460" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="cs141" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#ffffff;strokeColor=#82b366;" value="分子空间结构" vertex="1">
+          <mxGeometry height="30" width="140" x="1460" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="cs142" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#ffffff;strokeColor=#82b366;" value="分子极性初步" vertex="1">
+          <mxGeometry height="30" width="140" x="1460" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="cs143" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#ffffff;strokeColor=#82b366;" value="晶体初步" vertex="1">
+          <mxGeometry height="30" width="120" x="1460" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="4_i0IroZJ0dEOWj3PHwL-10" edge="1" parent="1" source="cs144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="cs147" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4_i0IroZJ0dEOWj3PHwL-11" edge="1" parent="1" source="cs144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="cs146">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4_i0IroZJ0dEOWj3PHwL-12" edge="1" parent="1" source="cs144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="cs146">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cs144" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#ffffff;strokeColor=#82b366;" value="有机物结构基础" vertex="1">
+          <mxGeometry height="30" width="150" x="1460" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="cs145" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#ffffff;strokeColor=#82b366;" value="碳骨架" vertex="1">
+          <mxGeometry height="28" width="110" x="1640" y="342" as="geometry" />
+        </mxCell>
+        <mxCell id="cs146" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#ffffff;strokeColor=#82b366;" value="官能团" vertex="1">
+          <mxGeometry height="28" width="110" x="1640" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="cs147" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#ffffff;strokeColor=#82b366;" value="同分异构" vertex="1">
+          <mxGeometry height="28" width="110" x="1640" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="ca31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#eaf4e8;strokeColor=#82b366;" value="氧化性与还原性" vertex="1">
+          <mxGeometry height="34" width="170" x="620" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="ca32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#eaf4e8;strokeColor=#82b366;" value="酸碱性（强弱、电离）" vertex="1">
+          <mxGeometry height="34" width="190" x="620" y="398" as="geometry" />
+        </mxCell>
+        <mxCell id="ca33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#eaf4e8;strokeColor=#82b366;" value="溶解性" vertex="1">
+          <mxGeometry height="34" width="140" x="1180" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="ca34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#eaf4e8;strokeColor=#82b366;" value="稳定性" vertex="1">
+          <mxGeometry height="34" width="140" x="1180" y="398" as="geometry" />
+        </mxCell>
+        <mxCell id="ca41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#eaf4e8;strokeColor=#82b366;" value="氧化还原（得失电子）" vertex="1">
+          <mxGeometry height="34" width="200" x="600" y="485" as="geometry" />
+        </mxCell>
+        <mxCell id="ca42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#eaf4e8;strokeColor=#82b366;" value="离子反应" vertex="1">
+          <mxGeometry height="34" width="150" x="600" y="523" as="geometry" />
+        </mxCell>
+        <mxCell id="ca43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#eaf4e8;strokeColor=#82b366;" value="沉淀反应" vertex="1">
+          <mxGeometry height="34" width="150" x="1180" y="485" as="geometry" />
+        </mxCell>
+        <mxCell id="ca44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#eaf4e8;strokeColor=#82b366;" value="化学平衡（K、移动）" vertex="1">
+          <mxGeometry height="34" width="180" x="1180" y="523" as="geometry" />
+        </mxCell>
+        <mxCell id="ca45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#eaf4e8;strokeColor=#82b366;" value="反应速率（影响因素）" vertex="1">
+          <mxGeometry height="34" width="190" x="1180" y="561" as="geometry" />
+        </mxCell>
+        <mxCell id="ca51" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#eaf4e8;strokeColor=#82b366;" value="物质的量（n=m/M）" vertex="1">
+          <mxGeometry height="34" width="190" x="560" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="ca52" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#eaf4e8;strokeColor=#82b366;" value="浓度（c=n/V）" vertex="1">
+          <mxGeometry height="34" width="160" x="560" y="648" as="geometry" />
+        </mxCell>
+        <mxCell id="ca53" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#eaf4e8;strokeColor=#82b366;" value="守恒（质量、电荷、电子）" vertex="1">
+          <mxGeometry height="34" width="210" x="560" y="686" as="geometry" />
+        </mxCell>
+        <mxCell id="ca54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#eaf4e8;strokeColor=#82b366;" value="比例关系" vertex="1">
+          <mxGeometry height="34" width="140" x="1180" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="ca55" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#eaf4e8;strokeColor=#82b366;" value="气体体积关系" vertex="1">
+          <mxGeometry height="34" width="150" x="1180" y="648" as="geometry" />
+        </mxCell>
+        <mxCell id="ce1" edge="1" parent="1" source="c1" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;endFill=1;strokeWidth=3;strokeColor=#333333;" target="c2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ce2" edge="1" parent="1" source="c2" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;endFill=1;strokeWidth=3;strokeColor=#333333;" target="c3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ce3" edge="1" parent="1" source="c3" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;endFill=1;strokeWidth=3;strokeColor=#333333;" target="c4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ce4" edge="1" parent="1" source="c4" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;endFill=1;strokeWidth=3;strokeColor=#333333;" target="c5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cse1" edge="1" parent="1" source="c2" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;strokeColor=#82b366;" target="ca21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cse2" edge="1" parent="1" source="c2" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;strokeColor=#82b366;" target="ca22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cse3" edge="1" parent="1" source="c2" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;strokeColor=#82b366;" target="ca24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cse4" edge="1" parent="1" source="c2" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;strokeColor=#82b366;" target="ca25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="p4" name="生物（知识点级）">
+    <mxGraphModel dx="2100" dy="1300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="1500" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bt" value="生物（知识点级）" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=30;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="760" y="20" width="680" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b1" value="结构" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="940" y="120" width="220" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="b2" value="代谢" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="940" y="250" width="220" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="b3" value="遗传" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="940" y="380" width="220" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="b4" value="调节" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="940" y="510" width="220" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="b5" value="生态" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="940" y="640" width="220" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="ba11" value="细胞膜（结构与功能）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#fdecea;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="600" y="110" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="ba12" value="细胞器（线粒体、叶绿体）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#fdecea;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="600" y="148" width="220" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="ba13" value="原核与真核" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#fdecea;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="600" y="186" width="160" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="ba14" value="细胞分裂（有丝）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#fdecea;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="138" width="170" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="ba21" value="酶（特性、影响因素）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#fdecea;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="600" y="240" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="ba22" value="ATP" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#fdecea;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="600" y="278" width="120" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="ba23" value="光合作用（光反应、暗反应）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#fdecea;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="230" width="220" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="ba24" value="细胞呼吸（三阶段）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#fdecea;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="268" width="180" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="ba31" value="DNA结构" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#fdecea;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="620" y="370" width="140" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="ba32" value="复制" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#fdecea;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="620" y="408" width="120" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="ba33" value="转录与翻译" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#fdecea;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="620" y="446" width="150" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="ba34" value="孟德尔遗传定律" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#fdecea;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="370" width="170" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="ba35" value="基因突变" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#fdecea;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="408" width="140" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="ba41" value="神经调节（反射弧）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#fdecea;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="600" y="500" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="ba42" value="激素调节（胰岛素等）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#fdecea;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="600" y="538" width="200" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="ba43" value="免疫（特异性/非特异性）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#fdecea;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="500" width="210" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="ba44" value="内环境稳态" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#fdecea;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="538" width="150" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="ba51" value="种群增长" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#fdecea;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="620" y="630" width="140" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="ba52" value="群落演替" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#fdecea;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="620" y="668" width="140" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="ba53" value="生态系统结构" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#fdecea;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="620" width="160" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="ba54" value="物质循环" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#fdecea;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="658" width="140" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="ba55" value="能量流动" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#fdecea;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="658" width="140" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="be1" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;endFill=1;strokeWidth=3;strokeColor=#333333;" edge="1" parent="1" source="b1" target="b2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="be2" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;endFill=1;strokeWidth=3;strokeColor=#333333;" edge="1" parent="1" source="b2" target="b3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="be3" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;endFill=1;strokeWidth=3;strokeColor=#333333;" edge="1" parent="1" source="b3" target="b4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="be4" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;endFill=1;strokeWidth=3;strokeColor=#333333;" edge="1" parent="1" source="b4" target="b5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
